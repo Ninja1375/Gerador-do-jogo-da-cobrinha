@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador do Jogo da Cobrinha</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="snake-icon.png">
+</head>
+<body>
+    <header>
+        <h1>🐍 Gerador do Jogo da Cobrinha</h1>
+        <p>
+        <a href="https://github.com/Platane/snk" target="_blank">Leia a Documentação Completa</a>
+        </p>
+</header>
+
+    <main>
+        <div class="container">
+            <p>Insira o nome de usuário do GitHub para gerar os códigos:</p>
+            <input type="text" id="githubUsername" placeholder="Digite seu usuário do GitHub">
+            <section class="options-container">
+    <p>Escolha a versão da Cobrinha:</p>
+    <div>
+        <input type="radio" id="lightVersion" name="snakeVersion" value="light" checked>
+        <label for="lightVersion">Light</label>
+    </div>
+    <div>
+        <input type="radio" id="darkVersion" name="snakeVersion" value="dark">
+        <label for="darkVersion">Dark</label>
+    </div>
+</section>
+
+<button id="generateMarkdownButton">Gerar Código Markdown</button>
+
+            <button id="generateYmlButton">Gerar Código YAML</button>
+
+            <h2>Código Markdown Gerado:</h2>
+            <textarea id="markdownOutput" readonly></textarea>
+
+            <h2>Código YAML Gerado:</h2>
+            <textarea id="ymlOutput" readonly></textarea>
+        </div>
+    </main>
+    <footer>
+    <p>
+        <span>Desenvolvido com</span> 🤍 <span>por</span>
+        <a href="https://ninja1375.github.io/Meu-Portfolio/" target="_blank">Antônio Nascimento</a>
+    </p>
+</footer>
+    <script src="script.js"></script>
+</body>
+</html>
