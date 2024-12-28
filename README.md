@@ -46,6 +46,7 @@ cd Gerador-do-jogo-da-cobrinha
 
 **6. Clique no botão "Gerar Código Markdown":**
 
+- O código é copiado automaticamente ao clicar nele.
 - O código Markdown gerado pode ser adicionado ao arquivo `README.md` no seu repositório GitHub.
 
 - Exemplo:
@@ -60,6 +61,7 @@ cd Gerador-do-jogo-da-cobrinha
 
 **7. Clique no botão "Gerar Código YAML":**
 
+- O código é copiado automaticamente ao clicar nele.
 - O código YAML gerado deve ser salvo no seguinte caminho do repositório:`.github/workflows/snake.yml`.
 
 - Exemplo de estrutura do repositório do usuário.
