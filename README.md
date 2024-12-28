@@ -28,15 +28,15 @@ Este projeto permite que você crie facilmente o Jogo da Cobrinha animado a part
 
 **1. Clone o Repositório:**
 
-```bash
+   ```bash
    git clone https://github.com/Ninja1375/Gerador-do-jogo-da-cobrinha.git
-```
+   ```
 
-**2. Abra o arquivo** `index.html` **no navegador.**
+**2. Abra o arquivo** `index.html` no navegador.
 
-**3. Insira o nome de usuário do GitHub no campo indicado.**
+**3. Insira o nome de usuário do GitHub** no campo indicado.
 
-**4. Escolha a versão da cobrinha (`Light` ou `Dark`).**
+**4. Escolha a versão da cobrinha** (Light ou Dark).
 
 **5. Clique no botão "Gerar Código Markdown":**
 
@@ -52,19 +52,20 @@ Este projeto permite que você crie facilmente o Jogo da Cobrinha animado a part
 
 - Salve e faça o commit no repositório.
 
-Clique no botão "Gerar Código YAML":
+**6. Clique no botão "Gerar Código YAML":**
 
-O código YAML gerado deve ser salvo no seguinte caminho do repositório:
+- O código YAML gerado deve ser salvo no seguinte caminho do repositório:`.github/workflows/snake.yml`.
 
-`.github/workflows/snake.yml.Exemplo de estrutura do repositório:
+-Exemplo de estrutura do repositório do usuário.
 
-plaintext
+```plaintext
+Seu-usuario/Seu-repositorio
+├── README.md
+└── .github/workflows/snake.yml 
+```
 
-Copiar código
 
-/ ├── README.md └── .github/ └── workflows/ └── snake.yml 
-
-Faça o commit e push do arquivo para que o GitHub Actions comece a funcionar.
+- Faça o commit e push do arquivo para que o GitHub Actions comece a funcionar.
 
 **7. Resultado Final:**
 
