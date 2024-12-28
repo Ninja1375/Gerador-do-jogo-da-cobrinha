@@ -34,13 +34,15 @@ Este projeto permite que você crie facilmente o Jogo da Cobrinha animado a part
 
 **2. Abra o arquivo** `index.html` **no navegador.**
 
-- Insira o nome de usuário do GitHub no campo indicado.
+**3. Insira o nome de usuário do GitHub no campo indicado.**
 
-- Escolha a versão da cobrinha (`Light` ou `Dark`).Clique no botão "Gerar Código Markdown":
+**4. Escolha a versão da cobrinha (`Light` ou `Dark`).**
+
+**5. Clique no botão "Gerar Código Markdown":**
 
 - O código Markdown gerado pode ser adicionado ao arquivo `README.md` no seu repositório GitHub.
 
-**Exemplo:**
+- Exemplo:
 
 ```markdown
 ## 🐍 Jogo da Cobrinha
@@ -48,7 +50,7 @@ Este projeto permite que você crie facilmente o Jogo da Cobrinha animado a part
 ![Snake animation](https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-contribution-grid-snake.svg)
 ```
 
-Salve e faça o commit no repositório.
+- Salve e faça o commit no repositório.
 
 Clique no botão "Gerar Código YAML":
 
