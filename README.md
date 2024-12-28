@@ -142,7 +142,7 @@ Consulte a [documentação oficial](https://github.com/Platane/snk) para mais de
 
 ## 🤝 Contribuições
 
-Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um **pull request**.
+Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um [pull request](https://github.com/Ninja1375/Gerador-do-jogo-da-cobrinha/pulls)
 
 ## 📜 Licença
 
