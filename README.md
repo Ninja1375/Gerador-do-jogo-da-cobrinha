@@ -24,3 +24,74 @@ Este projeto permite que você crie facilmente o Jogo da Cobrinha animado a part
 ├── snake-icon.png # Ícone da aba do navegador
 └── README.md     # Documentação
 ```
+## 📖 Como Usar
+
+- **Clone o Repositório:**
+
+```bash
+   git clone https://github.com/Ninja1375/Gerador-do-jogo-da-cobrinha.git
+```
+
+- **Abra o arquivo index.html no navegador.**
+
+Insira o nome de usuário do GitHub no campo indicado.
+
+Escolha a versão da cobrinha (`Light` ou `Dark`).Clique no botão "Gerar Código Markdown":
+
+O código Markdown gerado pode ser adicionado ao arquivo `README.md` no seu repositório GitHub.
+
+**Exemplo:**
+
+```markdown
+## 🐍 Jogo da Cobrinha
+
+![Snake animation](https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-contribution-grid-snake.svg)
+```
+
+Salve e faça o commit no repositório.
+
+Clique no botão "Gerar Código YAML":
+
+O código YAML gerado deve ser salvo no seguinte caminho do repositório:
+
+`.github/workflows/snake.yml.Exemplo de estrutura do repositório:
+
+plaintext
+
+Copiar código
+
+/ ├── README.md └── .github/ └── workflows/ └── snake.yml 
+
+Faça o commit e push do arquivo para que o GitHub Actions comece a funcionar.Resultado Final:O Jogo da Cobrinha será exibido automaticamente no seu perfil GitHub.🌟 DemonstraçãoInterface do Projeto
+
+<!-- Adicione uma imagem da interface aqui -->Exemplo de Código Markdown Gerado
+
+markdown
+
+Copiar código
+
+## 🐍 Jogo da Cobrinha ![Snake animation](https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake.svg) 
+
+Exemplo de Código YAML Gerado
+
+yaml
+
+Copiar código
+
+name: generate animation on: schedule: - cron: "0 */24 * * *" workflow_dispatch: push: branches: - master jobs: generate: permissions: contents: write runs-on: ubuntu-latest timeout-minutes: 5 steps: - name: generate github-contribution-grid-snake.svg uses: Platane/snk/svg-only@v3 with: github_user_name: ${{ github.repository_owner }} outputs: | dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg?palette=github-dark - name: push github-contribution-grid-snake.svg to the output branch uses: crazy-max/ghaction-github-pages@v3.1.0 with: target_branch: output build_dir: dist env: GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+
+📚 Créditos
+
+Este projeto foi inspirado no repositório Platane/snk, que fornece uma implementação completa e documentada para criar o Jogo da Cobrinha animado.
+
+Consulte a documentação oficial para mais detalhes sobre como configurar e personalizar o jogo.
+
+🤝 Contribuições
+
+Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um pull request.
+
+📜 Licença
+
+Este projeto está licenciado sob os termos da licença MIT. Consulte o arquivo LICENSE para mais informações.
+
+Desenvolvido com 🤍 por Antônio Nascimento.
