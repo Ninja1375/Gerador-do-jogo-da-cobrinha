@@ -17,11 +17,10 @@ Este projeto permite que você crie facilmente o Jogo da Cobrinha animado a part
 ## 📂 Estrutura do Projeto
 
 ```plaintext
-Gerador-do-jogo-da-cobrinha/
-|
+│ Gerador-do-jogo-da-cobrinha/
 ├── index.html     # Arquivo principal do projeto
 ├── style.css      # Estilização do layout
 ├── script.js      # Lógica de interação
 ├── snake-icon.png # Ícone da aba do navegador
-├── README.md     # Documentação
+└── README.md     # Documentação
 ```
