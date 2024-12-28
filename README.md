@@ -77,6 +77,8 @@ Ninja1375/Ninja1375
 - O Jogo da Cobrinha será exibido automaticamente no seu perfil GitHub.
 - Exemplo abaixo:
 
+![Snake animation](https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-contribution-grid-snake.svg)
+
 ## 🌟 Demonstração
 
 **Interface do Projeto**
