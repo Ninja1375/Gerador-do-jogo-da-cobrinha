@@ -148,4 +148,4 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-s
 
 Este projeto está licenciado sob os termos da licença MIT. Consulte o arquivo LICENSE para mais informações.
 
-**Desenvolvido com 🤍 por Antônio Nascimento.**
+**Desenvolvido com 🤍 por [Antônio Nascimento](https://ninja1375.github.io/Meu-Portfolio/)**
