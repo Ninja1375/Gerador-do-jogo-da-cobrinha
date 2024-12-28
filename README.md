@@ -85,9 +85,9 @@ Ninja1375/Ninja1375
 
 ## 🌟 Demonstração
 
-**Interface do Projeto**
+**[Página do Projeto](https://ninja1375.github.io/Gerador-do-jogo-da-cobrinha/)**
 
-<!-- Adicione uma imagem da interface aqui -->
+**Interface do Projeto**
 
 **Exemplo de Código Markdown Gerado**
 
