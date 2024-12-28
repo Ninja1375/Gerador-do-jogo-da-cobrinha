@@ -136,9 +136,9 @@ jobs:
 
 ## 📚 Créditos
 
-Este projeto foi inspirado no repositório Platane/snk, que fornece uma implementação completa e documentada para criar o Jogo da Cobrinha animado.
+Este projeto foi inspirado no repositório [Platane/snk](https://github.com/Platane/snk), que fornece uma implementação completa e documentada para criar o Jogo da Cobrinha animado.
 
-Consulte a documentação oficial para mais detalhes sobre como configurar e personalizar o jogo.
+Consulte a [documentação oficial](https://github.com/Platane/snk) para mais detalhes sobre como configurar e personalizar o jogo.
 
 ## 🤝 Contribuições
 
@@ -146,6 +146,6 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-s
 
 ## 📜 Licença
 
-Este projeto está licenciado sob os termos da **licença MIT**. Consulte o arquivo LICENSE para mais informações.
+Este projeto está licenciado sob os termos da licença MIT. Consulte o arquivo LICENSE para mais informações.
 
 **Desenvolvido com 🤍 por Antônio Nascimento.**
