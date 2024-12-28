@@ -144,8 +144,4 @@ Consulte a [documentação oficial](https://github.com/Platane/snk) para mais de
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um [pull request](https://github.com/Ninja1375/Gerador-do-jogo-da-cobrinha/pulls)
 
-## 📜 Licença
-
-Este projeto está licenciado sob os termos da licença MIT. Consulte o arquivo LICENSE para mais informações.
-
 **Desenvolvido com 🤍 por [Antônio Nascimento](https://ninja1375.github.io/Meu-Portfolio/)**
