@@ -10,6 +10,8 @@ Este projeto permite que você crie facilmente o Jogo da Cobrinha animado a part
 
 ## 🛠️ Tecnologias Utilizadas
 
+<a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/javascript-linguagem-dinamica-da-web.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+
 - **HTML**: Para estruturar a aplicação.
 - **CSS**: Para estilização e responsividade.
 - **JavaScript**: Para gerenciar a lógica e interação dos usuários.
@@ -22,7 +24,7 @@ Este projeto permite que você crie facilmente o Jogo da Cobrinha animado a part
 ├── style.css      # Estilização do layout
 ├── script.js      # Lógica de interação
 ├── snake-icon.png # Ícone da aba do navegador
-└── README.md     # Documentação
+└── README.md      # Documentação
 ```
 ## 📖 Como Usar
 
