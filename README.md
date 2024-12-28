@@ -89,6 +89,8 @@ Ninja1375/Ninja1375
 
 **Interface do Projeto**
 
+![Gerador-do-jogo-da-cobrinha](https://github.com/user-attachments/assets/046f6e90-f8dd-4a18-988d-b365048602c8)
+
 **Exemplo de Código Markdown Gerado**
 
 ```markdown
