@@ -26,19 +26,19 @@ Este projeto permite que você crie facilmente o Jogo da Cobrinha animado a part
 ```
 ## 📖 Como Usar
 
-- **Clone o Repositório:**
+**1. Clone o Repositório:**
 
 ```bash
    git clone https://github.com/Ninja1375/Gerador-do-jogo-da-cobrinha.git
 ```
 
-- **Abra o arquivo index.html no navegador.**
+**2. Abra o arquivo** `index.html` **no navegador.**
 
-Insira o nome de usuário do GitHub no campo indicado.
+- Insira o nome de usuário do GitHub no campo indicado.
 
-Escolha a versão da cobrinha (`Light` ou `Dark`).Clique no botão "Gerar Código Markdown":
+- Escolha a versão da cobrinha (`Light` ou `Dark`).Clique no botão "Gerar Código Markdown":
 
-O código Markdown gerado pode ser adicionado ao arquivo `README.md` no seu repositório GitHub.
+- O código Markdown gerado pode ser adicionado ao arquivo `README.md` no seu repositório GitHub.
 
 **Exemplo:**
 
@@ -62,7 +62,15 @@ Copiar código
 
 / ├── README.md └── .github/ └── workflows/ └── snake.yml 
 
-Faça o commit e push do arquivo para que o GitHub Actions comece a funcionar.Resultado Final:O Jogo da Cobrinha será exibido automaticamente no seu perfil GitHub.🌟 DemonstraçãoInterface do Projeto
+Faça o commit e push do arquivo para que o GitHub Actions comece a funcionar.
+
+**7. Resultado Final:**
+
+O Jogo da Cobrinha será exibido automaticamente no seu perfil GitHub.
+
+## 🌟 Demonstração
+
+Interface do Projeto
 
 <!-- Adicione uma imagem da interface aqui -->Exemplo de Código Markdown Gerado
 
