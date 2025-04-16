@@ -148,4 +148,4 @@ Consulte a [documentação oficial](https://github.com/Platane/snk) para mais de
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um [pull request](https://github.com/Ninja1375/Gerador-do-jogo-da-cobrinha/pulls)
 
-**Desenvolvido com 🧡 por [Antônio Nascimento](https://ninja1375.github.io/Meu-Portfolio/)**
+**Desenvolvido com 🧡 por [Antônio Nascimento](https://portfolio-antonio-nascimento.netlify.app/)**
